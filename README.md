@@ -1,4 +1,4 @@
-# Modeling RNA-Binding Protein Regulatory Interactions and Expression Networks within Ovarian Cancer and Breast Cancer Single Cell RNA Sequencing (scRNA) Datasets
+# Modeling RNA Binding Protein Regulatory Interactions and Expression Networks within Ovarian Cancer and Breast Cancer Single Cell RNA Sequencing (scRNA) Datasets
 **Necessary Dependencies Required to Install**
 1. Python (Version 3.9.5)
 2. ScanPy (Version 1.8.1)
